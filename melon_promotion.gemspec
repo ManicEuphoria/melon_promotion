@@ -6,7 +6,7 @@ Gem::Specification.new do |g|
   g.description = 'a melon promotion microservice gem'
   g.authors     = ['zelin, kerui']
   g.email       = 'xxx@xxx.com'
-  g.files       = ['lib/melon_promotion.rb']
+  g.files       = %w[lib/melon_promotion.rb lib/melon_promotion/promotion.rb]
   g.homepage    = ''
   g.license     = 'MIT'
 end

@@ -1,4 +1,7 @@
+require 'melon_promotion/promotion'
+
 class MelonPromotion
+
   def description
     'this is first melon microservice gem.'
   end
@@ -11,3 +14,4 @@ class MelonPromotion
     'great mountain!'
   end
 end
+
